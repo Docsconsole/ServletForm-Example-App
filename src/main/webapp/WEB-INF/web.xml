@@ -7,7 +7,7 @@
 	<display-name>ServletFormApp-Example</display-name>
 	<servlet>
 		<servlet-name>FormServlet</servlet-name>
-		<servlet-class>com.docsconsole.servlet4.tutorials.FormServlet</servlet-class>
+		<servlet-class>com.docsconsole.tutorials.FormServlet</servlet-class>
 		<load-on-startup>1</load-on-startup>
 	</servlet>
 
