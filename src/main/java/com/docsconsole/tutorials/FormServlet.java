@@ -1,4 +1,4 @@
-package com.docsconsole.servlet4.tutorials;
+package com.docsconsole.tutorials;
 
 import java.io.IOException;
 import javax.servlet.ServletException;
